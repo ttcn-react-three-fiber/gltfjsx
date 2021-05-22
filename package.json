@@ -29,15 +29,15 @@
     "node": ">=10"
   },
   "dependencies": {
-    "draco3dgltf": "^1.4.0",
+    "draco3dgltf": "^1.4.1",
     "import-jsx": "^4.0.0",
-    "ink": "^3.0.7",
+    "ink": "^3.0.8",
     "is-var-name": "^2.0.0",
-    "jsdom": "^16.4.0",
+    "jsdom": "^16.5.3",
     "jsdom-global": "^3.0.2",
     "meow": "^7.1.1",
-    "prettier": "^2.1.2",
-    "react": "^16.13.1",
+    "prettier": "^2.2.1",
+    "react": "^16.14.0",
     "three": "^0.122.0",
     "use-error-boundary": "^2.0.4"
   },
